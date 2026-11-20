@@ -1,0 +1,90 @@
+{
+  "sequence_name": "Sequence 2 Keyframe Automation",
+  "fps": 30,
+  "keyframes": [
+    {
+      "frame": 0,
+      "time_sec": 0.0,
+      "act": 1,
+      "video_alpha": 1.0,
+      "crop_letterbox": 0.08,
+      "tracking_boxes": 1.0,
+      "mesh_alpha": 0.0,
+      "skeleton_alpha": 0.0,
+      "particle_burst": 0.0,
+      "rgb_split_px": 0.0,
+      "feedback_decay": 0.0,
+      "morph_cycle_mode": "none"
+    },
+    {
+      "frame": 300,
+      "time_sec": 10.0,
+      "act": 2,
+      "video_alpha": 0.55,
+      "crop_letterbox": 0.0,
+      "tracking_boxes": 0.0,
+      "mesh_alpha": 0.88,
+      "skeleton_alpha": 0.0,
+      "particle_burst": 0.0,
+      "rgb_split_px": 0.0,
+      "feedback_decay": 0.5,
+      "morph_cycle_mode": "none"
+    },
+    {
+      "frame": 750,
+      "time_sec": 25.0,
+      "act": 3,
+      "video_alpha": 0.40,
+      "crop_letterbox": 0.0,
+      "tracking_boxes": 0.0,
+      "mesh_alpha": 0.25,
+      "skeleton_alpha": 1.0,
+      "particle_burst": 0.0,
+      "rgb_split_px": 0.0,
+      "feedback_decay": 0.80,
+      "morph_cycle_mode": "none"
+    },
+    {
+      "frame": 1200,
+      "time_sec": 40.0,
+      "act": 4,
+      "video_alpha": 0.20,
+      "crop_letterbox": 0.0,
+      "tracking_boxes": 0.0,
+      "mesh_alpha": 0.10,
+      "skeleton_alpha": 0.0,
+      "particle_burst": 1.0,
+      "rgb_split_px": 14.0,
+      "feedback_decay": 0.94,
+      "morph_cycle_mode": "none"
+    },
+    {
+      "frame": 1500,
+      "time_sec": 50.0,
+      "act": 5,
+      "video_alpha": 0.70,
+      "crop_letterbox": 0.05,
+      "tracking_boxes": 0.0,
+      "mesh_alpha": 0.80,
+      "skeleton_alpha": 0.80,
+      "particle_burst": 0.3,
+      "rgb_split_px": 6.0,
+      "feedback_decay": 0.85,
+      "morph_cycle_mode": "tri_morph_cycle"
+    },
+    {
+      "frame": 1800,
+      "time_sec": 60.0,
+      "act": 5,
+      "video_alpha": 0.0,
+      "crop_letterbox": 0.12,
+      "tracking_boxes": 0.0,
+      "mesh_alpha": 0.0,
+      "skeleton_alpha": 0.0,
+      "particle_burst": 1.0,
+      "rgb_split_px": 18.0,
+      "feedback_decay": 0.98,
+      "morph_cycle_mode": "title_card"
+    }
+  ]
+}

@@ -183,6 +183,15 @@ def _setup_custom_parameters(ui_comp):
     Configures the Custom Parameters UI tabs and controls.
     """
     try:
+        # Storyboards tab
+        p_seq = ui_comp.customPages.add('Storyboards')
+        p_seq.appendMenu('Sequence', label='Cinematic Sequence')
+        p_seq['Sequence'].menuNames = ['sequence1', 'sequence2']
+        p_seq['Sequence'].menuLabels = [
+            'Sequence 1: 6-Mode Exploration',
+            'Sequence 2: 5-Act Motion & Dribbling Intelligence'
+        ]
+
         # Video tab
         p_vid = ui_comp.customPages.add('Video')
         p_vid.appendPulse('LoadFootage', label='Load Local Footage')
@@ -259,7 +268,9 @@ def _validate_network_specs():
         "touchdesigner/shaders/particle_burst.vert",
         "touchdesigner/shaders/particle_burst.frag",
         "cinematics/timeline.json",
-        "cinematics/scenes.json"
+        "cinematics/scenes.json",
+        "cinematics/timeline_sequence2.json",
+        "cinematics/scenes_sequence2.json"
     ]
 
     all_ok = True

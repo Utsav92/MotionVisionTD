@@ -1,0 +1,105 @@
+{
+  "sequence_name": "Sequence 2: The Maestro at the Bernabeu",
+  "fps": 30,
+  "total_duration_sec": 60,
+  "total_frames": 1800,
+  "acts": [
+    {
+      "act_index": 1,
+      "title": "ORIGINAL FOOTAGE & AI TRACKING",
+      "start_sec": 0.0,
+      "end_sec": 10.0,
+      "start_frame": 0,
+      "end_frame": 300,
+      "concept": "Introduce the 2005 El Clasico with a cinematic crop, match typography, and active player tracking bounding boxes",
+      "visual_elements": {
+        "cinematic_letterbox": true,
+        "original_footage_alpha": 1.0,
+        "player_bounding_boxes": true,
+        "tracking_ids_visible": true,
+        "ronaldinho_target_reticle": true,
+        "meshes_visible": false,
+        "skeleton_visible": false,
+        "particles_visible": false,
+        "rgb_separation": 0.0
+      }
+    },
+    {
+      "act_index": 2,
+      "title": "3D MOTION RECONSTRUCTION",
+      "start_sec": 10.0,
+      "end_sec": 25.0,
+      "start_frame": 300,
+      "end_frame": 750,
+      "concept": "Ronaldinho becomes a golden 3D mesh, while Real Madrid defenders become red meshes (Apple CoMotion style)",
+      "visual_elements": {
+        "cinematic_letterbox": false,
+        "original_footage_alpha": 0.55,
+        "player_bounding_boxes": false,
+        "ronaldinho_gold_mesh": true,
+        "madrid_red_mesh": true,
+        "mesh_alpha": 0.88,
+        "fresnel_rim_glow": true,
+        "skeleton_visible": false,
+        "particles_visible": false
+      }
+    },
+    {
+      "act_index": 3,
+      "title": "DRIBBLING INTELLIGENCE",
+      "start_sec": 25.0,
+      "end_sec": 40.0,
+      "start_frame": 750,
+      "end_frame": 1200,
+      "concept": "Show skeleton joints, body rotation, foot trajectories, ball movement, and velocity vectors",
+      "visual_elements": {
+        "original_footage_alpha": 0.40,
+        "mesh_alpha": 0.25,
+        "skeleton_visible": true,
+        "joint_markers": true,
+        "torso_rotation_meter": true,
+        "foot_trajectories": true,
+        "ball_trajectory_ribbon": true,
+        "velocity_vectors": true,
+        "biomechanics_telemetry": true
+      }
+    },
+    {
+      "act_index": 4,
+      "title": "PARTICLE TRANSFORMATION",
+      "start_sec": 40.0,
+      "end_sec": 50.0,
+      "start_frame": 1200,
+      "end_frame": 1500,
+      "concept": "Convert Ronaldinho's 3D body into glowing particles with RGB separation, feedback trails, and depth effects",
+      "visual_elements": {
+        "original_footage_alpha": 0.25,
+        "particle_system_active": true,
+        "particle_count": 35000,
+        "curl_turbulence": true,
+        "rgb_channel_separation": true,
+        "chroma_shift_px": 14.0,
+        "feedback_motion_trails": 0.94,
+        "holographic_depth_slicing": true
+      }
+    },
+    {
+      "act_index": 5,
+      "title": "CINEMATIC FINALE",
+      "start_sec": 50.0,
+      "end_sec": 60.0,
+      "start_frame": 1500,
+      "end_frame": 1800,
+      "concept": "Show the goal sequence transitioning between original footage, colored meshes, and 3D skeleton visualization",
+      "visual_elements": {
+        "dynamic_morph_transition": true,
+        "original_footage_alpha_cycle": [1.0, 0.4, 0.7, 0.0],
+        "gold_mesh_alpha_cycle": [0.0, 0.9, 0.3, 0.0],
+        "skeleton_alpha_cycle": [0.0, 0.3, 1.0, 0.0],
+        "ball_strike_highlight": true,
+        "standing_ovation_glow": true,
+        "master_title_card": true
+      }
+    }
+  ]
+}
