@@ -28,52 +28,52 @@
     "L_Hand",
     "R_Hand"
   ],
-  "total_people": 31,
+  "total_people": 173,
   "people_summary": {
     "1": {
       "role": "ronaldinho",
-      "num_frames": 1800,
-      "avg_confidence": 0.9399888888888885
+      "num_frames": 142,
+      "avg_confidence": 0.9297183098591544
     },
     "2": {
-      "role": "referee",
-      "num_frames": 1054,
-      "avg_confidence": 0.8649240986717267
+      "role": "barcelona",
+      "num_frames": 77,
+      "avg_confidence": 0.8862337662337659
     },
     "3": {
-      "role": "real_madrid",
-      "num_frames": 974,
-      "avg_confidence": 0.8897535934291584
+      "role": "barcelona",
+      "num_frames": 10,
+      "avg_confidence": 0.8800000000000001
     },
     "4": {
       "role": "referee",
-      "num_frames": 1297,
-      "avg_confidence": 0.8499999999999999
+      "num_frames": 57,
+      "avg_confidence": 0.8685964912280701
     },
     "5": {
       "role": "barcelona",
-      "num_frames": 284,
-      "avg_confidence": 0.88
+      "num_frames": 14,
+      "avg_confidence": 0.8800000000000002
     },
     "6": {
       "role": "barcelona",
-      "num_frames": 4,
-      "avg_confidence": 0.88
+      "num_frames": 73,
+      "avg_confidence": 0.8799999999999999
     },
     "7": {
       "role": "barcelona",
-      "num_frames": 9,
+      "num_frames": 3,
       "avg_confidence": 0.88
     },
     "8": {
       "role": "barcelona",
-      "num_frames": 50,
-      "avg_confidence": 0.8800000000000001
+      "num_frames": 3,
+      "avg_confidence": 0.88
     },
     "9": {
       "role": "barcelona",
-      "num_frames": 352,
-      "avg_confidence": 0.8800000000000001
+      "num_frames": 77,
+      "avg_confidence": 0.8764935064935064
     },
     "10": {
       "role": "barcelona",
@@ -81,69 +81,69 @@
       "avg_confidence": 0.88
     },
     "11": {
-      "role": "real_madrid",
-      "num_frames": 525,
-      "avg_confidence": 0.8991238095238099
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
     },
     "12": {
       "role": "barcelona",
-      "num_frames": 766,
-      "avg_confidence": 0.8883028720626632
+      "num_frames": 13,
+      "avg_confidence": 0.8800000000000002
     },
     "13": {
       "role": "barcelona",
-      "num_frames": 3,
-      "avg_confidence": 0.88
+      "num_frames": 31,
+      "avg_confidence": 0.8799999999999998
     },
     "14": {
       "role": "barcelona",
-      "num_frames": 3,
-      "avg_confidence": 0.88
+      "num_frames": 13,
+      "avg_confidence": 0.8800000000000002
     },
     "15": {
       "role": "barcelona",
-      "num_frames": 7,
+      "num_frames": 3,
       "avg_confidence": 0.88
     },
     "16": {
-      "role": "real_madrid",
-      "num_frames": 400,
-      "avg_confidence": 0.9002500000000002
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
     },
     "17": {
-      "role": "referee",
-      "num_frames": 638,
-      "avg_confidence": 0.8583542319749214
+      "role": "ronaldinho",
+      "num_frames": 3,
+      "avg_confidence": 0.9333333333333332
     },
     "18": {
-      "role": "ronaldinho",
-      "num_frames": 6,
-      "avg_confidence": 0.9366666666666665
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.88
     },
     "19": {
-      "role": "ronaldinho",
-      "num_frames": 27,
-      "avg_confidence": 0.9392592592592593
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
     },
     "20": {
-      "role": "ronaldinho",
-      "num_frames": 21,
-      "avg_confidence": 0.9390476190476191
+      "role": "barcelona",
+      "num_frames": 29,
+      "avg_confidence": 0.8799999999999999
     },
     "21": {
-      "role": "referee",
-      "num_frames": 384,
-      "avg_confidence": 0.8499999999999998
+      "role": "barcelona",
+      "num_frames": 27,
+      "avg_confidence": 0.8799999999999999
     },
     "22": {
       "role": "barcelona",
-      "num_frames": 47,
-      "avg_confidence": 0.8800000000000004
+      "num_frames": 3,
+      "avg_confidence": 0.88
     },
     "23": {
       "role": "barcelona",
-      "num_frames": 163,
-      "avg_confidence": 0.88
+      "num_frames": 12,
+      "avg_confidence": 0.8800000000000002
     },
     "24": {
       "role": "barcelona",
@@ -152,38 +152,748 @@
     },
     "25": {
       "role": "barcelona",
-      "num_frames": 43,
-      "avg_confidence": 0.8800000000000002
+      "num_frames": 3,
+      "avg_confidence": 0.88
     },
     "26": {
       "role": "barcelona",
-      "num_frames": 26,
+      "num_frames": 2,
       "avg_confidence": 0.88
     },
     "27": {
-      "role": "referee",
-      "num_frames": 143,
-      "avg_confidence": 0.893006993006993
+      "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
     },
     "28": {
       "role": "barcelona",
-      "num_frames": 22,
+      "num_frames": 3,
       "avg_confidence": 0.88
     },
     "29": {
       "role": "barcelona",
-      "num_frames": 21,
-      "avg_confidence": 0.8895238095238097
+      "num_frames": 1,
+      "avg_confidence": 0.88
     },
     "30": {
-      "role": "ronaldinho",
-      "num_frames": 44,
-      "avg_confidence": 0.9395454545454544
+      "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
     },
     "31": {
       "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
+    },
+    "32": {
+      "role": "barcelona",
+      "num_frames": 9,
+      "avg_confidence": 0.88
+    },
+    "33": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "34": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "35": {
+      "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
+    },
+    "36": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "37": {
+      "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
+    },
+    "38": {
+      "role": "barcelona",
+      "num_frames": 20,
+      "avg_confidence": 0.8800000000000001
+    },
+    "39": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "40": {
+      "role": "barcelona",
+      "num_frames": 15,
+      "avg_confidence": 0.8800000000000003
+    },
+    "41": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "42": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "43": {
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.88
+    },
+    "44": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "45": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "46": {
+      "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
+    },
+    "47": {
+      "role": "barcelona",
+      "num_frames": 10,
+      "avg_confidence": 0.8800000000000001
+    },
+    "48": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "49": {
+      "role": "barcelona",
+      "num_frames": 24,
+      "avg_confidence": 0.88
+    },
+    "50": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "51": {
+      "role": "barcelona",
+      "num_frames": 5,
+      "avg_confidence": 0.8800000000000001
+    },
+    "52": {
+      "role": "barcelona",
       "num_frames": 6,
       "avg_confidence": 0.88
+    },
+    "53": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "54": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "55": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "56": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "57": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "58": {
+      "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
+    },
+    "59": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "60": {
+      "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
+    },
+    "61": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "62": {
+      "role": "ronaldinho",
+      "num_frames": 3,
+      "avg_confidence": 0.9333333333333332
+    },
+    "63": {
+      "role": "referee",
+      "num_frames": 2,
+      "avg_confidence": 0.85
+    },
+    "64": {
+      "role": "barcelona",
+      "num_frames": 1,
+      "avg_confidence": 0.88
+    },
+    "65": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "66": {
+      "role": "ronaldinho",
+      "num_frames": 2,
+      "avg_confidence": 0.9299999999999999
+    },
+    "67": {
+      "role": "barcelona",
+      "num_frames": 9,
+      "avg_confidence": 0.88
+    },
+    "68": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "69": {
+      "role": "barcelona",
+      "num_frames": 5,
+      "avg_confidence": 0.8800000000000001
+    },
+    "70": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "71": {
+      "role": "barcelona",
+      "num_frames": 7,
+      "avg_confidence": 0.88
+    },
+    "72": {
+      "role": "barcelona",
+      "num_frames": 6,
+      "avg_confidence": 0.88
+    },
+    "73": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "74": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "75": {
+      "role": "barcelona",
+      "num_frames": 6,
+      "avg_confidence": 0.88
+    },
+    "76": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "77": {
+      "role": "ronaldinho",
+      "num_frames": 11,
+      "avg_confidence": 0.938181818181818
+    },
+    "78": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "79": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "80": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "81": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "82": {
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.88
+    },
+    "83": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "84": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "85": {
+      "role": "barcelona",
+      "num_frames": 22,
+      "avg_confidence": 0.8622727272727275
+    },
+    "86": {
+      "role": "barcelona",
+      "num_frames": 5,
+      "avg_confidence": 0.8800000000000001
+    },
+    "87": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "88": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "89": {
+      "role": "barcelona",
+      "num_frames": 6,
+      "avg_confidence": 0.88
+    },
+    "90": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "91": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "92": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "93": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "94": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "95": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "96": {
+      "role": "referee",
+      "num_frames": 4,
+      "avg_confidence": 0.85
+    },
+    "97": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "98": {
+      "role": "barcelona",
+      "num_frames": 7,
+      "avg_confidence": 0.88
+    },
+    "99": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "100": {
+      "role": "referee",
+      "num_frames": 7,
+      "avg_confidence": 0.8499999999999999
+    },
+    "101": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "102": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "103": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "104": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "105": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "106": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "107": {
+      "role": "referee",
+      "num_frames": 5,
+      "avg_confidence": 0.85
+    },
+    "108": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "109": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "110": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "111": {
+      "role": "referee",
+      "num_frames": 7,
+      "avg_confidence": 0.8671428571428571
+    },
+    "112": {
+      "role": "referee",
+      "num_frames": 6,
+      "avg_confidence": 0.85
+    },
+    "113": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "114": {
+      "role": "referee",
+      "num_frames": 4,
+      "avg_confidence": 0.85
+    },
+    "115": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "116": {
+      "role": "referee",
+      "num_frames": 4,
+      "avg_confidence": 0.85
+    },
+    "117": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "118": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "119": {
+      "role": "barcelona",
+      "num_frames": 7,
+      "avg_confidence": 0.88
+    },
+    "120": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "121": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "122": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "123": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "124": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "125": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "126": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "127": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "128": {
+      "role": "referee",
+      "num_frames": 29,
+      "avg_confidence": 0.8500000000000002
+    },
+    "129": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "130": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "131": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "132": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "133": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "134": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "135": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "136": {
+      "role": "barcelona",
+      "num_frames": 2,
+      "avg_confidence": 0.88
+    },
+    "137": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "138": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "139": {
+      "role": "barcelona",
+      "num_frames": 6,
+      "avg_confidence": 0.88
+    },
+    "140": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
+    },
+    "141": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "142": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "143": {
+      "role": "barcelona",
+      "num_frames": 19,
+      "avg_confidence": 0.8800000000000001
+    },
+    "144": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "145": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "146": {
+      "role": "referee",
+      "num_frames": 6,
+      "avg_confidence": 0.85
+    },
+    "147": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "148": {
+      "role": "barcelona",
+      "num_frames": 142,
+      "avg_confidence": 0.8799999999999999
+    },
+    "149": {
+      "role": "barcelona",
+      "num_frames": 37,
+      "avg_confidence": 0.8864864864864864
+    },
+    "150": {
+      "role": "barcelona",
+      "num_frames": 26,
+      "avg_confidence": 0.88
+    },
+    "151": {
+      "role": "barcelona",
+      "num_frames": 75,
+      "avg_confidence": 0.8874666666666665
+    },
+    "152": {
+      "role": "barcelona",
+      "num_frames": 48,
+      "avg_confidence": 0.8833333333333334
+    },
+    "153": {
+      "role": "barcelona",
+      "num_frames": 11,
+      "avg_confidence": 0.8872727272727274
+    },
+    "154": {
+      "role": "barcelona",
+      "num_frames": 109,
+      "avg_confidence": 0.8811009174311926
+    },
+    "155": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.8933333333333334
+    },
+    "156": {
+      "role": "barcelona",
+      "num_frames": 33,
+      "avg_confidence": 0.8812121212121212
+    },
+    "157": {
+      "role": "barcelona",
+      "num_frames": 17,
+      "avg_confidence": 0.88
+    },
+    "158": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "159": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "160": {
+      "role": "referee",
+      "num_frames": 13,
+      "avg_confidence": 0.8499999999999999
+    },
+    "161": {
+      "role": "ronaldinho",
+      "num_frames": 4,
+      "avg_confidence": 0.9349999999999999
+    },
+    "162": {
+      "role": "barcelona",
+      "num_frames": 19,
+      "avg_confidence": 0.8800000000000001
+    },
+    "163": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "164": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "165": {
+      "role": "barcelona",
+      "num_frames": 5,
+      "avg_confidence": 0.8800000000000001
+    },
+    "166": {
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.88
+    },
+    "167": {
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.88
+    },
+    "168": {
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.88
+    },
+    "169": {
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.88
+    },
+    "170": {
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.88
+    },
+    "171": {
+      "role": "barcelona",
+      "num_frames": 8,
+      "avg_confidence": 0.8725
+    },
+    "172": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "173": {
+      "role": "referee",
+      "num_frames": 3,
+      "avg_confidence": 0.85
     }
   }
 }
