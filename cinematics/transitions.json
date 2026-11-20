@@ -1,0 +1,49 @@
+{
+  "transitions": [
+    {
+      "from_scene": 1,
+      "to_scene": 2,
+      "transition_frame": 240,
+      "duration_frames": 30,
+      "type": "cross_dissolve_ai_data_scan",
+      "shader_trigger": "scanline_wipe",
+      "sound_fx": "data_lock_sfx"
+    },
+    {
+      "from_scene": 2,
+      "to_scene": 3,
+      "transition_frame": 540,
+      "duration_frames": 30,
+      "type": "mesh_to_xray_skeleton",
+      "shader_trigger": "alpha_skeleton_ramp",
+      "sound_fx": "sub_bass_drop"
+    },
+    {
+      "from_scene": 3,
+      "to_scene": 4,
+      "transition_frame": 900,
+      "duration_frames": 45,
+      "type": "particle_explosion_burst",
+      "shader_trigger": "particle_dispersion",
+      "sound_fx": "granular_particle_swell"
+    },
+    {
+      "from_scene": 4,
+      "to_scene": 5,
+      "transition_frame": 1200,
+      "duration_frames": 30,
+      "type": "particle_reassembly_to_analytics",
+      "shader_trigger": "hud_matrix_rebuild",
+      "sound_fx": "digital_sonar_ping"
+    },
+    {
+      "from_scene": 5,
+      "to_scene": 6,
+      "transition_frame": 1500,
+      "duration_frames": 40,
+      "type": "chromatic_rgbd_hologram_warp",
+      "shader_trigger": "rgb_channel_shift",
+      "sound_fx": "resonant_samba_crescendo"
+    }
+  ]
+}

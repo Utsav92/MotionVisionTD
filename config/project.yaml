@@ -1,0 +1,71 @@
+# MotionVision TD - Ronaldinho: The Art of Motion
+# Project Configuration
+
+project:
+  name: "MotionVision TD — Ronaldinho: The Art of Motion"
+  version: "1.0.0"
+  author: "Deep Learning & Creative Technology Team"
+  match:
+    date: "2005-11-19"
+    fixture: "Real Madrid CF vs. FC Barcelona"
+    venue: "Estadio Santiago Bernabéu, Madrid, Spain"
+    final_score: "0 - 3"
+    featured_player:
+      name: "Ronaldo de Assis Moreira (Ronaldinho)"
+      shirt_number: 10
+      team: "FC Barcelona"
+      role: "Left Winger / Free Roaming Attacker"
+
+hardware_target:
+  platform: "Apple Silicon"
+  architecture: "arm64"
+  recommended_soc: "Apple M2/M3/M4 Series"
+  unified_memory_gb: 24
+  target_os: "macOS Sonoma / Sequoia (Cross-platform compatible with Windows/Linux)"
+  accelerators:
+    mps_enabled: true
+    coreml_enabled: true
+    metal_shaders: true
+    cuda_fallback: true
+    cpu_fallback: true
+  memory_budget:
+    max_inference_memory_mb: 8192
+    max_touchdesigner_memory_mb: 10240
+    cache_eviction_threshold_percent: 85
+
+ai_pipeline:
+  detection_model: "yolov8x.pt"
+  fallback_detection: "yolov8n.pt"
+  detection_confidence_threshold: 0.45
+  iou_threshold: 0.50
+  tracker_type: "bytetrack"
+  tracker_buffer_frames: 60
+  ball_detector:
+    crop_scale: 1.5
+    high_res_pass: true
+    confidence_threshold: 0.35
+    max_gap_interpolation_frames: 15
+  reconstruction:
+    preferred_model: "apple_comotion"
+    fallback_model: "articulated_smpl_fit"
+    comotion_repo_url: "https://github.com/apple-aiml-research/ml-comotion"
+    smpl_gender: "neutral"
+    smpl_num_betas: 10
+    smpl_num_joints: 24
+    temporal_smoothing_window: 5
+    smoothing_polynomial_order: 2
+
+rendering:
+  base_framerate: 30
+  interpolated_framerate: 60
+  standard_resolution: [1920, 1080]
+  preview_resolution: [1280, 720]
+  cinematic_resolution: [3840, 2160]
+  aspect_ratio: "16:9"
+  colors:
+    ronaldinho: [1.0, 0.843, 0.0, 1.0]      # Electric Gold (#FFD700)
+    real_madrid: [1.0, 0.22, 0.38, 1.0]     # Madrid Defender Neon Crimson/Pink (#FF3860)
+    barcelona: [0.0, 0.48, 1.0, 1.0]        # Blaugrana Cyan/Electric Blue (#007BFF)
+    referee: [0.65, 0.25, 0.95, 1.0]        # Referee Purple (#A640F3)
+    ball: [1.0, 1.0, 1.0, 1.0]              # Ball Pure White (#FFFFFF)
+    ball_trail: [0.0, 0.95, 0.85, 1.0]      # Ball Trajectory Turquoise (#00F2D8)

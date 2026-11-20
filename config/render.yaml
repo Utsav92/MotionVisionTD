@@ -1,0 +1,68 @@
+# MotionVision TD - Render & Pipeline Presets
+
+presets:
+  preview:
+    name: "PREVIEW"
+    resolution: [1280, 720]
+    target_fps: 30
+    motion_blur: false
+    particle_count: 5000
+    bloom_iterations: 2
+    feedback_length: 8
+    render_quality: "draft"
+    codec: "h264"
+    bitrate: "6M"
+
+  standard:
+    name: "STANDARD"
+    resolution: [1920, 1080]
+    target_fps: 30
+    motion_blur: true
+    particle_count: 25000
+    bloom_iterations: 4
+    feedback_length: 16
+    render_quality: "production"
+    codec: "h264"
+    bitrate: "18M"
+
+  cinematic:
+    name: "CINEMATIC"
+    resolution: [1920, 1080]
+    target_fps: 30
+    motion_blur: true
+    particle_count: 75000
+    bloom_iterations: 6
+    feedback_length: 24
+    render_quality: "master"
+    codec: "prores422hq"
+    bitrate: "50M"
+
+  cinematic_4k:
+    name: "CINEMATIC_4K"
+    resolution: [3840, 2160]
+    target_fps: 30
+    motion_blur: true
+    particle_count: 150000
+    bloom_iterations: 8
+    feedback_length: 30
+    render_quality: "ultra_master"
+    codec: "prores4444"
+    bitrate: "120M"
+
+modes:
+  A: "COLORED_HUMAN_MESHES"
+  B: "3D_SKELETON_BIOMECHANICS"
+  C: "PARTICLE_BODY_TRANSFORMATION"
+  D: "RGBD_CHROMA_HOLOGRAM"
+  E: "MOTION_TRAILS_FEEDBACK"
+  F: "FOOTBALL_ANALYTICS_HUD"
+
+visual_effects:
+  glow_strength: 0.85
+  feedback_decay: 0.92
+  particle_noise_scale: 0.45
+  chromatic_aberration_px: 12.0
+  mesh_transparency: 0.90
+  depth_slice_thickness: 0.35
+  camera_dof_fstop: 2.8
+  motion_streak_persistence: 14

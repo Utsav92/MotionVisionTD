@@ -1,0 +1,138 @@
+{
+  "project": "MotionVision TD — Ronaldinho: The Art of Motion",
+  "fps": 30,
+  "total_duration_sec": 60,
+  "total_frames": 1800,
+  "scenes": [
+    {
+      "scene_index": 1,
+      "name": "THE ART OF MOTION",
+      "start_sec": 0.0,
+      "end_sec": 8.0,
+      "start_frame": 0,
+      "end_frame": 240,
+      "mode": "MODE_A_INTRO",
+      "visual_mode_id": "A",
+      "camera_view": "broadcast_camera",
+      "title": "RONALDINHO — THE ART OF MOTION",
+      "subtitle": "Santiago Bernabéu — November 19, 2005",
+      "effects": {
+        "cinematic_crop": true,
+        "restrained_glow": 0.4,
+        "motion_trails": 0.0,
+        "particles": false,
+        "hud_analytics": false,
+        "mesh_opacity": 0.0,
+        "wireframe": false
+      }
+    },
+    {
+      "scene_index": 2,
+      "name": "FOOTBALL BECOMES DATA",
+      "start_sec": 8.0,
+      "end_sec": 18.0,
+      "start_frame": 240,
+      "end_frame": 540,
+      "mode": "COLORED_HUMAN_MESHES",
+      "visual_mode_id": "A",
+      "camera_view": "broadcast_camera",
+      "title": "FOOTBALL BECOMES DATA",
+      "subtitle": "Apple CoMotion 3D Multi-Person Reconstruction",
+      "effects": {
+        "cinematic_crop": false,
+        "restrained_glow": 0.65,
+        "motion_trails": 0.25,
+        "particles": false,
+        "hud_analytics": true,
+        "mesh_opacity": 0.88,
+        "wireframe": false
+      }
+    },
+    {
+      "scene_index": 3,
+      "name": "THE ANATOMY OF A DRIBBLE",
+      "start_sec": 18.0,
+      "end_sec": 30.0,
+      "start_frame": 540,
+      "end_frame": 900,
+      "mode": "3D_SKELETON_BIOMECHANICS",
+      "visual_mode_id": "B",
+      "camera_view": "follow_ronaldinho",
+      "title": "THE ANATOMY OF A DRIBBLE",
+      "subtitle": "Articulated Kinematic Tree & Joint Flexion Tracking",
+      "effects": {
+        "cinematic_crop": false,
+        "restrained_glow": 0.85,
+        "motion_trails": 0.50,
+        "particles": false,
+        "hud_analytics": true,
+        "mesh_opacity": 0.35,
+        "skeleton_visible": true
+      }
+    },
+    {
+      "scene_index": 4,
+      "name": "MOTION IN FOUR DIMENSIONS",
+      "start_sec": 30.0,
+      "end_sec": 40.0,
+      "start_frame": 900,
+      "end_frame": 1200,
+      "mode": "PARTICLE_BODY_TRANSFORMATION",
+      "visual_mode_id": "C",
+      "camera_view": "cinematic_orbit",
+      "title": "MOTION IN FOUR DIMENSIONS",
+      "subtitle": "Mesh Vertex Sampling & Dynamic Fluid Turbulence",
+      "effects": {
+        "cinematic_crop": false,
+        "restrained_glow": 1.0,
+        "motion_trails": 0.90,
+        "particles": true,
+        "particle_count": 25000,
+        "hud_analytics": false,
+        "mesh_opacity": 0.20
+      }
+    },
+    {
+      "scene_index": 5,
+      "name": "THE INTELLIGENCE OF MOVEMENT",
+      "start_sec": 40.0,
+      "end_sec": 50.0,
+      "start_frame": 1200,
+      "end_frame": 1500,
+      "mode": "FOOTBALL_ANALYTICS_HUD",
+      "visual_mode_id": "F",
+      "camera_view": "broadcast_camera",
+      "title": "THE INTELLIGENCE OF MOVEMENT",
+      "subtitle": "Velocity Derivatives, Pitch Space Heatmaps & Defender Proximity",
+      "effects": {
+        "cinematic_crop": false,
+        "restrained_glow": 0.70,
+        "motion_trails": 0.60,
+        "particles": false,
+        "hud_analytics": true,
+        "mesh_opacity": 0.75
+      }
+    },
+    {
+      "scene_index": 6,
+      "name": "THE ART OF FOOTBALL",
+      "start_sec": 50.0,
+      "end_sec": 60.0,
+      "start_frame": 1500,
+      "end_frame": 1800,
+      "mode": "RGBD_CHROMA_HOLOGRAM",
+      "visual_mode_id": "D",
+      "camera_view": "isolated_3d_view",
+      "title": "THE ART OF FOOTBALL",
+      "subtitle": "RONALDINHO: THE ART OF MOTION — AI Motion Reconstruction × TouchDesigner",
+      "effects": {
+        "cinematic_crop": true,
+        "restrained_glow": 0.95,
+        "motion_trails": 0.80,
+        "particles": true,
+        "hud_analytics": false,
+        "mesh_opacity": 0.90
+      }
+    }
+  ]
+}

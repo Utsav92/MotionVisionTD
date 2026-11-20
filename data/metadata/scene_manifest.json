@@ -1,0 +1,189 @@
+{
+  "format_version": "1.0.0",
+  "coordinate_system": "TouchDesigner Y-up, metric units (meters)",
+  "num_joints": 24,
+  "joint_names": [
+    "Pelvis",
+    "L_Hip",
+    "R_Hip",
+    "Spine1",
+    "L_Knee",
+    "R_Knee",
+    "Spine2",
+    "L_Ankle",
+    "R_Ankle",
+    "Spine3",
+    "L_Foot",
+    "R_Foot",
+    "Neck",
+    "L_Collar",
+    "R_Collar",
+    "Head",
+    "L_Shoulder",
+    "R_Shoulder",
+    "L_Elbow",
+    "R_Elbow",
+    "L_Wrist",
+    "R_Wrist",
+    "L_Hand",
+    "R_Hand"
+  ],
+  "total_people": 31,
+  "people_summary": {
+    "1": {
+      "role": "ronaldinho",
+      "num_frames": 1800,
+      "avg_confidence": 0.9399888888888885
+    },
+    "2": {
+      "role": "referee",
+      "num_frames": 1054,
+      "avg_confidence": 0.8649240986717267
+    },
+    "3": {
+      "role": "real_madrid",
+      "num_frames": 974,
+      "avg_confidence": 0.8897535934291584
+    },
+    "4": {
+      "role": "referee",
+      "num_frames": 1297,
+      "avg_confidence": 0.8499999999999999
+    },
+    "5": {
+      "role": "barcelona",
+      "num_frames": 284,
+      "avg_confidence": 0.88
+    },
+    "6": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "7": {
+      "role": "barcelona",
+      "num_frames": 9,
+      "avg_confidence": 0.88
+    },
+    "8": {
+      "role": "barcelona",
+      "num_frames": 50,
+      "avg_confidence": 0.8800000000000001
+    },
+    "9": {
+      "role": "barcelona",
+      "num_frames": 352,
+      "avg_confidence": 0.8800000000000001
+    },
+    "10": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "11": {
+      "role": "real_madrid",
+      "num_frames": 525,
+      "avg_confidence": 0.8991238095238099
+    },
+    "12": {
+      "role": "barcelona",
+      "num_frames": 766,
+      "avg_confidence": 0.8883028720626632
+    },
+    "13": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "14": {
+      "role": "barcelona",
+      "num_frames": 3,
+      "avg_confidence": 0.88
+    },
+    "15": {
+      "role": "barcelona",
+      "num_frames": 7,
+      "avg_confidence": 0.88
+    },
+    "16": {
+      "role": "real_madrid",
+      "num_frames": 400,
+      "avg_confidence": 0.9002500000000002
+    },
+    "17": {
+      "role": "referee",
+      "num_frames": 638,
+      "avg_confidence": 0.8583542319749214
+    },
+    "18": {
+      "role": "ronaldinho",
+      "num_frames": 6,
+      "avg_confidence": 0.9366666666666665
+    },
+    "19": {
+      "role": "ronaldinho",
+      "num_frames": 27,
+      "avg_confidence": 0.9392592592592593
+    },
+    "20": {
+      "role": "ronaldinho",
+      "num_frames": 21,
+      "avg_confidence": 0.9390476190476191
+    },
+    "21": {
+      "role": "referee",
+      "num_frames": 384,
+      "avg_confidence": 0.8499999999999998
+    },
+    "22": {
+      "role": "barcelona",
+      "num_frames": 47,
+      "avg_confidence": 0.8800000000000004
+    },
+    "23": {
+      "role": "barcelona",
+      "num_frames": 163,
+      "avg_confidence": 0.88
+    },
+    "24": {
+      "role": "barcelona",
+      "num_frames": 4,
+      "avg_confidence": 0.88
+    },
+    "25": {
+      "role": "barcelona",
+      "num_frames": 43,
+      "avg_confidence": 0.8800000000000002
+    },
+    "26": {
+      "role": "barcelona",
+      "num_frames": 26,
+      "avg_confidence": 0.88
+    },
+    "27": {
+      "role": "referee",
+      "num_frames": 143,
+      "avg_confidence": 0.893006993006993
+    },
+    "28": {
+      "role": "barcelona",
+      "num_frames": 22,
+      "avg_confidence": 0.88
+    },
+    "29": {
+      "role": "barcelona",
+      "num_frames": 21,
+      "avg_confidence": 0.8895238095238097
+    },
+    "30": {
+      "role": "ronaldinho",
+      "num_frames": 44,
+      "avg_confidence": 0.9395454545454544
+    },
+    "31": {
+      "role": "barcelona",
+      "num_frames": 6,
+      "avg_confidence": 0.88
+    }
+  }
+}

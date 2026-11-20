@@ -1,0 +1,113 @@
+{
+  "manifest_version": "1.0.0",
+  "project": "MotionVision TD — Ronaldinho: The Art of Motion",
+  "match_info": {
+    "fixture": "Real Madrid CF 0 - 3 FC Barcelona",
+    "competition": "La Liga 2005-06 Matchday 12",
+    "date": "2005-11-19",
+    "stadium": "Estadio Santiago Bernabéu, Madrid",
+    "commentary": "Spanish / International Broadcast",
+    "subject": "Ronaldo de Assis Moreira (Ronaldinho Gaúcho) - FC Barcelona #10"
+  },
+  "references": [
+    {
+      "id": "REF_PRIMARY",
+      "type": "official_club_archive",
+      "title": "Goals at the Bernabéu: Ronaldinho's magic in 2005",
+      "url": "https://www.youtube.com/watch?v=RbzfCHJAGHk",
+      "publisher": "FC Barcelona Official",
+      "notes": "Reference video link for visual reference. Official copyright held by respective broadcaster / rights-holders. User must supply licensed local copy."
+    },
+    {
+      "id": "REF_SECONDARY",
+      "type": "match_broadcast_archive",
+      "title": "Real Madrid 0–3 FC Barcelona (2005)",
+      "url": "https://www.youtube.com/watch?v=MZ2GT_35jLQ",
+      "publisher": "Broadcast Archive",
+      "notes": "Full match broadcast reference for tactical context and multi-angle verification."
+    }
+  ],
+  "source_footage": {
+    "default_local_path": "assets/videos/ronaldinho_bernabeu_2005.mp4",
+    "synthetic_fallback_path": "assets/videos/synthetic_ronaldinho_test.mp4",
+    "target_resolution": [1920, 1080],
+    "target_fps": 30.0,
+    "color_space": "Rec.709",
+    "audio": "Original match commentary (stereo) or ambient crowd track"
+  },
+  "selected_shots": [
+    {
+      "shot_id": "SHOT_01",
+      "label": "Approach & Midfield Drive",
+      "timeline_start_sec": 0.0,
+      "timeline_end_sec": 8.0,
+      "source_in_timecode": "00:58:12.00",
+      "source_out_timecode": "00:58:20.00",
+      "camera_motion": "broadcast_horizontal_pan",
+      "players_visible": ["ronaldinho", "sergio_ramos", "michel_salgado"],
+      "action_type": "midfield_acceleration",
+      "primary_visual_mode": "A_TO_B_TRANSITION"
+    },
+    {
+      "shot_id": "SHOT_02",
+      "label": "The Confrontation & Stepover Setup",
+      "timeline_start_sec": 8.0,
+      "timeline_end_sec": 18.0,
+      "source_in_timecode": "00:58:20.00",
+      "source_out_timecode": "00:58:30.00",
+      "camera_motion": "tracking_tight_zoom",
+      "players_visible": ["ronaldinho", "sergio_ramos"],
+      "action_type": "body_feint_and_stepover",
+      "primary_visual_mode": "COLORED_HUMAN_MESHES"
+    },
+    {
+      "shot_id": "SHOT_03",
+      "label": "Explosive Cut Past Ramos",
+      "timeline_start_sec": 18.0,
+      "timeline_end_sec": 30.0,
+      "source_in_timecode": "00:58:30.00",
+      "source_out_timecode": "00:58:42.00",
+      "camera_motion": "dynamic_pan_follow",
+      "players_visible": ["ronaldinho", "sergio_ramos", "helguera"],
+      "action_type": "high_g_direction_change",
+      "primary_visual_mode": "3D_SKELETON_BIOMECHANICS"
+    },
+    {
+      "shot_id": "SHOT_04",
+      "label": "Penalty Box Penetration & Helguera Feint",
+      "timeline_start_sec": 30.0,
+      "timeline_end_sec": 40.0,
+      "source_in_timecode": "00:58:42.00",
+      "source_out_timecode": "00:58:52.00",
+      "camera_motion": "tracking_low_angle",
+      "players_visible": ["ronaldinho", "helguera", "casillas"],
+      "action_type": "evasion_and_burst",
+      "primary_visual_mode": "PARTICLE_BODY_TRANSFORMATION"
+    },
+    {
+      "shot_id": "SHOT_05",
+      "label": "Near-Post Strike & Ball Trajectory",
+      "timeline_start_sec": 40.0,
+      "timeline_end_sec": 50.0,
+      "source_in_timecode": "00:58:52.00",
+      "source_out_timecode": "00:59:02.00",
+      "camera_motion": "goalmouth_tracking",
+      "players_visible": ["ronaldinho", "casillas", "roberto_carlos"],
+      "action_type": "ball_strike_and_trajectory",
+      "primary_visual_mode": "FOOTBALL_ANALYTICS_HUD"
+    },
+    {
+      "shot_id": "SHOT_06",
+      "label": "Standing Ovation & Celebration Disintegration",
+      "timeline_start_sec": 50.0,
+      "timeline_end_sec": 60.0,
+      "source_in_timecode": "00:59:02.00",
+      "source_out_timecode": "00:59:12.00",
+      "camera_motion": "celebration_crane_orbit",
+      "players_visible": ["ronaldinho", "etoo", "messi", "puyol"],
+      "action_type": "samba_celebration_and_applause",
+      "primary_visual_mode": "RGBD_CHROMA_HOLOGRAM"
+    }
+  ],
+  "permissions_notice": "Footage usage is subject to fair-use / personal research exemptions or direct broadcaster licensing. This software operates deterministically on user-supplied local media files."
+}
